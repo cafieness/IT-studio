@@ -149,7 +149,7 @@ main {
   height: 100vh;
   min-height: 600px;
   max-height: 1080px;
-  background-image: url(/image/intro_bg.png);
+  background-image: url(../image/intro_bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -259,7 +259,7 @@ main {
   margin-right: 17px;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url(/image/services__img.png);
+  background-image: url(../image/services__img.png);
   border: 1px solid #E0E0E0;
   border-radius: 50%;
 }
@@ -391,7 +391,7 @@ main {
   height: 30px;
   display: inline-block;
   margin-right: 20px;
-  background-image: url(/image/about__terminal.png);
+  background-image: url(../image/about__terminal.png);
 }
 
 .about__bottom-block-text {
@@ -525,7 +525,7 @@ main {
 .section-7 {
   width: 100%;
   padding: 70px 0 85px;
-  background-image: url(/image/subscribe.png);
+  background-image: url(../image/subscribe.png);
   background-repeat: no-repeat;
 }
 
@@ -703,15 +703,15 @@ main {
 }
 
 .footer__row-block-address-email::before {
-  background-image: url(/image/envelope.svg);
+  background-image: url(../image/envelope.svg);
 }
 
 .footer__row-block-address-phone::before {
-  background-image: url(/image/call.svg);
+  background-image: url(../image/call.svg);
 }
 
 .footer__row-block-address-place::before {
-  background-image: url(/image/place.svg);
+  background-image: url(../image/place.svg);
 }
 
 .footer__row-block-nav {
@@ -735,7 +735,7 @@ main {
 }
 
 .footer__row-block-nav-link::before {
-  background-image: url(/image/arrow.png);
+  background-image: url(../image/arrow.png);
   background-repeat: no-repeat;
   width: 10px;
   height: 10px;
